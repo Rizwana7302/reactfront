@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactfront/static/css/main.86c4cfaa.css",
+    "main.js": "/reactfront/static/js/main.89abc8fe.js",
+    "static/js/453.419a5d54.chunk.js": "/reactfront/static/js/453.419a5d54.chunk.js",
+    "static/media/Henna-5.png": "/reactfront/static/media/Henna-5.5db226b59a0937000a74.png",
+    "static/media/arabicDesign.png": "/reactfront/static/media/arabicDesign.8585480af42fb46dceed.png",
+    "static/media/Henna-8.jpg": "/reactfront/static/media/Henna-8.2789301dcf9dab8739b1.jpg",
+    "static/media/footdesign.png": "/reactfront/static/media/footdesign.c4d924e7de859ef3de9e.png",
+    "static/media/armdesign.jpg": "/reactfront/static/media/armdesign.adfa42d8ce98ab4d269e.jpg",
+    "static/media/header1.png": "/reactfront/static/media/header1.1da9beb2c144b2ea168a.png",
+    "static/media/figuredesign.jpg": "/reactfront/static/media/figuredesign.5f919abf8b8ca9fc6123.jpg",
+    "static/media/classic.jpg": "/reactfront/static/media/classic.318a55e333aa73761933.jpg",
+    "index.html": "/reactfront/index.html",
+    "main.86c4cfaa.css.map": "/reactfront/static/css/main.86c4cfaa.css.map",
+    "main.89abc8fe.js.map": "/reactfront/static/js/main.89abc8fe.js.map",
+    "453.419a5d54.chunk.js.map": "/reactfront/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86c4cfaa.css",
+    "static/js/main.89abc8fe.js"
+  ]
+}
